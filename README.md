@@ -4,4 +4,5 @@ This repository holds architecture recommendations for the LEK (LEAK) Salesforce
 
 ## Documents
 
-- [LEK Agentforce Enhancement Roadmap](docs/LEK-Agentforce-Enhancement-Roadmap.md) — gap analysis from the mid-2025 Account / Contact / Opportunity employee agent to current Agentforce 360 capabilities, with a phased enhancement plan.
+- [LEK Agentforce: Differences, Capabilities & Advantages](docs/LEK-Agentforce-Capabilities-Comparison.md) — side-by-side mid-2025 vs current Agentforce: what LEK has, what is available now, and business advantages.
+- [LEK Agentforce Enhancement Roadmap](docs/LEK-Agentforce-Enhancement-Roadmap.md) — phased architecture and implementation roadmap from the mid-2025 baseline to Agentforce 360.
